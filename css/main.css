@@ -127,7 +127,7 @@ a:hover {
 }
 
 #modal.flex-container{
-  justify-content: space-around;
+  justify-content: space-between;
   flex-wrap: wrap;
 }
 
@@ -141,8 +141,8 @@ a:hover {
 
 .col-4{
   padding: 20px 100px;
+  width: 400px;
   float: left;
-  width: 33.333333333%;
 }
 
 .img-product{
